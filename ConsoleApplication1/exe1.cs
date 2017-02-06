@@ -10,8 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main()
         {
-            Console.WriteLine("Terry Lin");
-            Console.WriteLine("lovebreakerboy.lin@gmail.com");
+            Console.WriteLine("Terry");
+            Console.WriteLine("hteinlinaung@gmail.com");
         }
     }
 }
